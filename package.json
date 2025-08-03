@@ -15,7 +15,11 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+<<<<<<< HEAD
     "dotenv": "^17.2.1",
+=======
+    "dotenv": "^16.0.3",
+>>>>>>> 15008714a42963abafb2d2d287b842f9049e6680
     "express": "^4.17.3",
     "mongoose": "^6.2.6"
   }
